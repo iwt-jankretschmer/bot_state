@@ -1,0 +1,32 @@
+{
+  "debug": false,
+  "token": "Nzc1NzEwMjYwNjY0NTk4NTM5.X6qSeg.qhyfM_BYI4sXNjUS1fAf9_tcjJo",
+  "apiSite": 3,
+  "apiUrl": "https://api.battlemetrics.com/servers/8340209",
+  "serverIp": "",
+  "serverPort": "28015",
+  "enableRcon": "0",
+  "rconhost": "",
+  "rconport": "",
+  "rconpass": "",
+  "prefix": "!",
+  "roles": [
+    "Administrator",
+    "admins",
+    "Member"
+  ],
+  "queueMessage": "currently waiting in queue.",
+  "updateInterval": "1"
+}
+
+{"data":
+  {"type":"server","id":"8340209",
+    "attributes":
+    {"id":"8340209","name":"Galactic Contention Europe","address":null,"ip":"45.10.25.105","port":7785,"players":0,"maxPlayers":80,"rank":199,"location":[8.68213,50.1109],"status":"online",
+      "details":
+      {"map":"GC_GeonosisV31_Skirmish_V2","gameMode":"AAS","version":"V1.1.0.173.39994","secure":0,"licensedServer":false,"numPubConn":80,"numPrivConn":0,"numOpenPrivConn":0,"modded":true,"lastRestart":"2020-11-10T13:11:40.296Z","serverSteamId":"90140166718592003"}
+      ,"private":false,"createdAt":"2020-09-10T10:56:54.538Z","updatedAt":"2020-11-10T13:11:40.296Z","portQuery":27023,"country":"DE","queryStatus":"valid"}
+      ,"relationships":
+      {"game":
+        {"data":{"type":"game","id":"squad"}}}}
+        ,"included":[]}

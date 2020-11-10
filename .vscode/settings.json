@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/33dc654f-a60d-43e8-ad6d-119845e99d77/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bot-gc-eu",
+    "appService.deploySubpath": "."
+}
